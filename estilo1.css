@@ -7,14 +7,14 @@ html {
     text-align: center
   }
   div.div1{ color: white;
-    background-image: url()
+    background-image: url("img/sonetos-lope-plantilla/fondos/manchas.png");
   }
   div.div2{ color: gold;
-    background-image: url()  
+    background-image: url("img/sonetos-lope-plantilla/fondos/tallos.jpg")  
 }
 div.div3{ color: #800036;
-    background-image: url() 
+    background-image: url("img/sonetos-lope-plantilla/fondos/hexagonos.jpg") 
 }
 div.div4{ color: #004D06;
-    background-image: url() 
+    background-image: url("img/sonetos-lope-plantilla/fondos/estrellas.png") 
 }
