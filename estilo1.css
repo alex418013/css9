@@ -1,10 +1,13 @@
 @charset "utf-8";
 /* Creado por Alejandro Sánchez Folgado */
 html {
-    background: url("img/sonetos-lope-plantilla/fondos/corazon-1.svg") top left repeat-y,
-      pink url("img/sonetos-lope-plantilla/fondos/corazon-2.svg") top right repeat-y;
+    background: url("img/sonetos-lope-plantilla/fondos/corazon-1.svg") top left /75px repeat-y ,
+      pink url("img/sonetos-lope-plantilla/fondos/corazon-2.svg") top right /75px repeat-y ;
     padding: 0 70px; 
     text-align: center
+  }
+  h1{
+      text-transform: uppercase;
   }
   div.div1{ color: white;
     background-image: url("img/sonetos-lope-plantilla/fondos/manchas.png");
