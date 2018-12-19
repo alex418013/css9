@@ -6,15 +6,15 @@ html {
     padding: 0 70px; 
     text-align: center
   }
-  div.div1{
-
+  div.div1{ color: white;
+    background-image: url()
   }
-  div.div2{
-      
+  div.div2{ color: gold;
+    background-image: url()  
 }
-div.div3{
-      
+div.div3{ color: #800036;
+    background-image: url() 
 }
-div.div4{
-      
+div.div4{ color: #004D06;
+    background-image: url() 
 }
