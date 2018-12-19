@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* Creado por Alejandro Sánchez Folgado */
+html {
+    background: url("img/sonetos-lope-plantilla/fondos/corazon-1.svg") top left repeat-y,
+      pink url("img/sonetos-lope-plantilla/fondos/corazon-2.svg") top right repeat-y;
+    padding: 0 70px;
+  }
